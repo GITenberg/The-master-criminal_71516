@@ -1,0 +1,36 @@
+_repo: The-master-criminal_71516
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Post, Charles Johnson
+    birthdate: 1873
+    deathdate: 1956
+    gutenberg_agent_id: '25880'
+    url: http://www.gutenberg.org/2009/agents/25880
+creator:
+  author:
+    agent_name: Paternoster, G. Sidney
+    alias: Paternoster, George Sidney,
+    birthdate: 1866
+    gutenberg_agent_id: '32159'
+    url: http://www.gutenberg.org/2009/agents/32159
+description: ''
+gutenberg_issued: '2023-08-29'
+identifiers:
+  gutenberg: '71516'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc2.ark%3A%2F13960%2Ft6833pz6t
+pgterms:marc905: 20161221215736paternoste
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: Charlene Taylor, Laura Natal, Bruce Albrecht (bgalbrecht) and the
+  Online Distributed Proofreading Team at https://www.pgdp.net (This book was produced
+  from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bThe Cupples & Leon Company, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The master criminal
+url: http://www.gutenberg.org/ebooks/71516
